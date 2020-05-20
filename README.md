@@ -1,5 +1,10 @@
 # DeepLearning-NeuralStyleTransfer
 
+* [Summary PDF](https://github.com/kvong/DeepLearning-NeuralStyleTransfer/blob/master/NeuralStyleTransfer.pdf)
+
+* Some generated images:
+    ![](./screenshot/result.png)
+
 * References from:
   * [Official Code From Keras](https://keras.io/examples/neural_style_transfer/)
   * Deep Learning with Python by François Chollet
