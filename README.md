@@ -2,7 +2,7 @@
 
 * [Summary PDF](https://github.com/kvong/DeepLearning-NeuralStyleTransfer/blob/master/NeuralStyleTransfer.pdf)
 
-* Some generated images:
+* Some images I generated:
     ![](./screenshot/result.png)
 
 * References from:
