@@ -3,7 +3,7 @@
 * [Summary PDF](https://github.com/kvong/DeepLearning-NeuralStyleTransfer/blob/master/NeuralStyleTransfer.pdf)
 
 * Some images I generated:
-    ![](./screenshot/result.png)
+    ![](./screenshots/result.png)
 
 * References from:
   * [Official Code From Keras](https://keras.io/examples/neural_style_transfer/)
