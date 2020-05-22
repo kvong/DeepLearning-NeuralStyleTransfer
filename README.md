@@ -6,7 +6,7 @@
     ![](./screenshots/result.png)
     
 * Refining the image:
-    ![](./screenshots/content_mask_style.png
+    ![](./screenshots/content_mask_style.png)
    * Without Content Mask
     ![](./screenshots/wo_content_mask.png)
    * With Content Mask
